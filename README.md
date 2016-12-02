@@ -4,4 +4,4 @@
 
 **Caught in a landslide**
  
-blockquote
+[kaytto_ohje](https://github.com/Suidat/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
